@@ -2,7 +2,7 @@
 
 *ZeroGravity* is an interactive, cosmic-themed web experience that helps users explore their mood and discover their current “vibe” through a playful, antigravity-inspired interface.
 
-The project blends *Vibe Coding, **AI-inspired mood detection, and **immersive UI design* to create an emotional, lightweight, and engaging digital experience.
+The project blends Vibe Coding, AI-inspired mood detection, and immersive UI design to create an emotional, lightweight, and engaging digital experience.
 
 ---
 
